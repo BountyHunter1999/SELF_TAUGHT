@@ -1,0 +1,9 @@
+//CREATE ROOMS
+
+CREATE TABLE rooms(
+roomType INT PRIMARYKEY ,
+customerName VARCHAR(128) NOT NULL ,
+customerNumber INT NOT NULL,
+roomPrice INT
+);
+

@@ -1,0 +1,17 @@
+FOR PYLINT
+
+*it runs a bunch of tests on its own
+*need to be installed as pip install pylint via command line
+
+pylint is used to evaluate ur code as well as test and debug ur code
+for getting all the statics u need to use pylint XXX -ry
+XXX=name of ur py file
+
+
+
+FOR UNITTEST
+*we can make our test program
+check my github at erros and exception handeling
+
+
+
